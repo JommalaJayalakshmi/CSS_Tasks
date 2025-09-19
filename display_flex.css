@@ -1,0 +1,41 @@
+.container{
+    background-color: black;
+    color:aliceblue;
+    border:3px solid;
+    display:flex;
+    justify-content: space-around;
+    padding:15px;
+    border-radius:15px;
+    font-size:x-large;
+}
+
+.container-2{
+    background-color: black;
+    border:3px solid;
+    color:aliceblue;
+    font-size: xx-large;
+    display:flex;
+    justify-content: space-around;
+    padding:5px;
+    padding:10px;
+    border-radius:15px ;
+}
+
+.container-2>.item>p{
+    font-size:x-large;
+    margin:0;
+    text-align: center;
+}
+
+.container-3{ 
+    background-color: black;
+    border:3px solid;
+    color:aliceblue;
+    font-size: xx-large;
+    display:flex;
+    justify-content: space-around;
+    padding:5px;
+    padding:10px;
+    border-radius:15px ;
+
+}
